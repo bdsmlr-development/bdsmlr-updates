@@ -1,6 +1,12 @@
 # bdsmlr-updates
 Updates for community on BDSMLR development
 
+## May, 5 2021 fixes 
+- tags issue is fixed. There was a problem with some tags were redirecting to the chat. Now the tag functionality is back. Possible to click on it and see more content, and the icon near it expect to go to the chat which is currently broken.
+- the bdsmlr blog will be implemented soon
+- fully CI/CD-automated development environment is built for BDSMLR to help us with our patches and goals, this is where we can now test new and old stuff without ruining user experience
+- the issues will be solved faster starting in 2 weeks, as far as we expand the team
+
 ## April, 13 2021 fixes 
 - user profiles pictures are fixed on the main domain bdsmlr.com
 - the link to development updates is on the main page now
