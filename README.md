@@ -1,6 +1,16 @@
 # bdsmlr-updates
 Updates for community on BDSMLR development
 
+## July, 20 2021 fixes 
+
+Made the following fixes and improvements:
+- Fixed issue with the server hosting subdomains causing some blogs to not load properly.
+- Added loaders and error messages to make the UX smoother.
+- Fixed link forming from the messages page so users can go straight to the user profile.
+- Improved layout for the chat pop-up and the page itself.
+
+We will get back to posting regular updates here, so stay tuned!
+
 ## May, 5 2021 fixes 
 - tags issue is fixed. There was a problem with some tags were redirecting to the chat. Now the tag functionality is back. Possible to click on it and see more content, and the icon near it expect to go to the chat which is currently broken.
 - the bdsmlr blog will be implemented soon
