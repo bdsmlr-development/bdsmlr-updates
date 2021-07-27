@@ -1,6 +1,11 @@
 # bdsmlr-updates
 Updates for community on BDSMLR development
 
+## July, 27 2021 fixes 
+
+- Fixed chat problem that kept users from sending messages from the blog preview because the enter button wasn't working.
+- Resolved issue that prevented some users from logging in on the web browser if they had an ad blocker turned on.
+
 ## July, 20 2021 fixes 
 
 Made the following fixes and improvements:
