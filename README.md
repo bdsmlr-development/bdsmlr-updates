@@ -1,6 +1,14 @@
 # bdsmlr-updates
 Updates for community on BDSMLR development
 
+## September, 16 2021 fixes 
+
+- Optimized /firstload and /infinite queries
+- Added partitioning for the database
+- Updated database version
+- disabeled /newposts query until we're able to refator it - right now it's too heavy on the db and leads to server crashes
+- started frontend refactoring 
+
 ## July, 27 2021 fixes 
 
 - Fixed chat problem that kept users from sending messages from the blog preview because the enter button wasn't working.
