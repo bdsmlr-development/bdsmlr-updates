@@ -1,13 +1,20 @@
 # bdsmlr-updates
 Updates for community on BDSMLR development
 
+## September, 21 2021 fixes 
+
+- Optimizations of queries on the Followers page
+- Optimization of queries on Tagdash page
+- Models' optimization
+- Fixed authorization check 
+
 ## September, 16 2021 fixes 
 
 - Optimized /firstload and /infinite queries
 - Added partitioning for the database
 - Updated database version
-- disabeled /newposts query until we're able to refator it - right now it's too heavy on the db and leads to server crashes
-- started frontend refactoring 
+- Disabeled /newposts query until we're able to refator it - right now it's too heavy on the db and leads to server crashes
+- Started frontend refactoring 
 
 ## July, 27 2021 fixes 
 
