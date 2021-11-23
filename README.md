@@ -1,6 +1,25 @@
 # bdsmlr-updates
 Updates for community on BDSMLR development
 
+## November, 11 2021 fixes 
+- Follows backend fix
+- Updated Links forming
+
+## November, 5 2021 fixes 
+- DB optimization on Following
+- Premium users seeing Ads fix
+
+## November, 2 2021 fixes 
+- Drafts links refactoring
+- Queue links refactoring
+- Sideblogs links refactoring
+
+## October, 18 2021 fixes 
+- fixed GA
+- refactoring of the video posts file
+- updateв logging logic
+- minor fixes
+
 ## September, 21 2021 fixes 
 
 - Optimizations of queries on the Followers page
