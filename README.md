@@ -1,6 +1,12 @@
 # bdsmlr-updates
 Updates for community on BDSMLR development
 
+## December, 7 2021 fixes 
+- Premium users seeing Ads fix
+- Adjusted Tagdash paginated view to eliminate 500 on some users
+- Fixed paginated Dashboard showing only reposts
+- Switched from Wasabi to Mojohost as main image hosting 
+
 ## November, 11 2021 fixes 
 - Follows backend fix
 - Updated Links forming
